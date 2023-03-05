@@ -1,4 +1,4 @@
-## Hi I'm Clayton silva 👋
+## Hi I'm Clayton Silva 👋
 
 Hello, my name is Clayton! I am DBA SQL Server and MySQL.
 I'm interested in TSQL, database administration e web development.
